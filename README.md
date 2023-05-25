@@ -2,8 +2,8 @@
 
 ## Modules Used
 
-### - [x] express
-### - [x] mysql2
-### - [x] nodemon
-### - [x] cors
+- [x] express
+- [x] mysql2
+- [x] nodemon
+- [x] cors
 
