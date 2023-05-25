@@ -10,9 +10,9 @@
 ## HTTP requests to server (CRUD)
 
 - GET
-  i. '/' => Returns the data of all the persons
-  ii. '/:id' => Returns the person details with Id as 'id'
-  iii. '/Name/:query' => Returns details of everyone whose name has 'query'
+  1. '/' => Returns the data of all the persons
+  2. '/:id' => Returns the person details with Id as 'id'
+  3. '/Name/:query' => Returns details of everyone whose name has 'query'
 - POST
   i. '/add' => Add the posted data into the database and returns added details as acknowledgement.
 - UPDATE
