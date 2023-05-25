@@ -18,5 +18,5 @@
 - UPDATE
   - **/update/:id** &nbsp;&nbsp;&nbsp; => Updates the details of person with Id as 'id'.
 - DELETE
-  - **/delete/:id** &nbsp;&nbsp;&nbsp; => deletes the deatails of person based on id
-  - **/deleteAll** &nbsp;&nbsp;&nbsp; => deletes every record.
+  - **/delete/:id** &nbsp;&nbsp;&nbsp; => deletes the deatails of the person with Id as id
+  - **/deleteAll** &nbsp;&nbsp;&nbsp; => deletes every record in the table.
