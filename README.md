@@ -20,3 +20,11 @@
 - DELETE
   - **/delete/:id** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; => deletes the deatails of the person with Id as 'id'
   - **/deleteAll** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; => deletes every record in the table.
+
+
+## How To Run
+
+- First Run APACHE and MYSQL in the XAMPP.
+- Run the server with **"nodemon index.js"** command.
+- Open **Postman** Application to send HTTP requests to the servers.
+- Send different HTTP Requests to the server. 
