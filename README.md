@@ -11,7 +11,7 @@
 
 - GET
   - **/** &nbsp;&nbsp;&nbsp;&nbsp; => Returns the data of all the persons
-  - **/:id** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; => Returns the person details with Id as 'id'
+  - **/:id** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; => Returns the person details with Id as 'id'
   - **/Name/:query** &nbsp;&nbsp;&nbsp; => Returns details of everyone whose name has 'query'
 - POST
   - **/add** &nbsp;&nbsp;&nbsp; => Add the posted data into the database and returns added details as acknowledgement.
